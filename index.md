@@ -1,11 +1,9 @@
 ---
-layout: 'lay'
+layout: "lay"
 ---
 # The VauLSMorg Archive
-
-# [DIRECTORY 0](0/)
-# [DIRECTORY 1](1/)
-# [DIRECTORY 2](2/)
-# [DIRECTORY 3](3/)
-# [DIRECTORY 4](4/)
-
+# [Directory 0](0/)
+# [Directory 1](1/)
+# [Directory 2](2/)
+# [Directory 3](3/)
+# [Directory 4](4/)
