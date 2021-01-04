@@ -28,7 +28,7 @@ cat > index.md << NNNN
 ---
 layout: "lay"
 ---
-# The VauLSMorg Archive
+# {{ site.title }}
 NNNN
 
 for II in 0 1 2 3 4 ; do

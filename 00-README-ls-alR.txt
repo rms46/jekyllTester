@@ -16,6 +16,7 @@ README.md
 script.js
 _site
 style.css
+tmptmp
 
 ./0:
 00-0.html
@@ -620,6 +621,7 @@ robots.txt
 script.js
 sitemap.xml
 style.css
+tmptmp
 
 ./_site/0:
 00-0.html

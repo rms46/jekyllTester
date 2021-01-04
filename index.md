@@ -1,7 +1,7 @@
 ---
 layout: "lay"
 ---
-# The VauLSMorg Archive
+# {{ site.title }}
 # [Directory 0](0/)
 # [Directory 1](1/)
 # [Directory 2](2/)
