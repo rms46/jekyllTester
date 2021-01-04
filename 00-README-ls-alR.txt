@@ -595,6 +595,7 @@ index.md
 0009.pdf
 0010.jpg
 0011.pdf
+0012.html
 index.md
 
 ./_layouts:
@@ -698,17 +699,8 @@ citations-w.html
 citations-x.html
 citations-y.html
 citations-z.html
-dummy0.txt
-dummy1.txt
-dummy2.txt
 etc-welcome.html
 index.html
-LOCAL-LINK1.html
-LOCAL-LINK2.html
-LOCAL-LINK3.html
-LOCAL-LINK4.html
-style.css
-ZZpindah.html
 
 ./_site/1:
 100.html
@@ -800,16 +792,7 @@ ZZpindah.html
 99.html
 99.odp
 99.pdf
-dummy0.txt
-dummy1.txt
-dummy2.txt
 index.html
-LOCAL-LINK1.html
-LOCAL-LINK2.html
-LOCAL-LINK3.html
-LOCAL-LINK4.html
-style.css
-ZZpindah.html
 
 ./_site/2:
 101.html
@@ -990,18 +973,7 @@ ZZpindah.html
 222.txt
 223.odt
 223.pdf
-dummy0.txt
-dummy1.txt
-dummy2.txt
-google148dc424c74d268b.html
 index.html
-LOCAL-LINK1.html
-LOCAL-LINK2.html
-LOCAL-LINK3.html
-LOCAL-LINK4.html
-Makefile
-style.css
-ZZpindah.html
 
 ./_site/3:
 0001.txt
@@ -1214,7 +1186,6 @@ ZZpindah.html
 0207.pdf
 0208.txt
 index.html
-ZZpindah.html
 
 ./_site/4:
 0001.jpg
@@ -1228,6 +1199,7 @@ ZZpindah.html
 0009.pdf
 0010.jpg
 0011.pdf
+0012.html
 index.html
 
 ./_site/assets:
