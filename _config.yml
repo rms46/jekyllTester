@@ -1,13 +1,9 @@
-title: URLS
-description: (V072-20210102) URLs.
-      This site is managed by VauLSMorg (vlsm.org) since 2020.
+title: Hello!
+description: (V001-20210104) Hello!
+      This site is managed by VauLSMorg (vlsm.org) since 2021.
 google_analytics: UA-89852122-6
-disc: You are free to share, copy and redistribute the material of this site 
-      in any medium or format for any purpose, even commercially. 
-      Please give appropriate credit, provide a link to the page, 
-      and indicate if changes were made. You may do so in any reasonable manner. 
-      You should not apply legal terms or technological measures, 
-      that legally restrict others from doing anything that is permited here.
+disc: XXX.
+      XXX.
 author: Cicak Bin Kadal
 show_downloads: false
 theme: jekyll-theme-hacker
@@ -18,7 +14,7 @@ plugins:
 social:
   name: URLs
   links:
-    - https://https://github.com/rms46/urls
+    - https://https://github.com/rms46/jekyllTester
 
 # github:
 #    zip_url: https://github.com/...
