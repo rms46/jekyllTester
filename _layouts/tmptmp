@@ -1,0 +1,14 @@
+    <style>
+    h1, h2, h3, h4 {
+        text-align: center;
+    } 
+    p, th, dt {
+        text-align: left;
+    } 
+    table  {
+        border:       0;
+        width:        60%;
+        margin-left:  20%;
+        margin-right: 20%;
+    }
+    </style>
