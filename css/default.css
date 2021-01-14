@@ -1,0 +1,19 @@
+html {
+    margin:  0;
+    padding: 0;
+    font:    normal 100%/1.4 Georgia, Serif; 
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+}
+p, th, dt {
+    text-align: left;
+}
+table  {
+    border:       0;
+    width:        60%;
+    margin-left:  20%;
+    margin-right: 20%;
+}
+
