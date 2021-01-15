@@ -1,4 +1,1 @@
-    <link href="{{site.baseurl}}/css/default.css" rel="stylesheet" type="text/css" title="Style">
-    <!-- <script type="text/javascript" src="{{site.baseurl}}/assets/js/javascripts/hello.js" ></script> -->
-
-
+<body style="background-image:url({{site.baseurl}}/png/gtmb.png)">
