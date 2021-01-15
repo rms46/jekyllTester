@@ -1,8 +1,7 @@
 ---
-layout: "lay"
+layout: "layout"
 ---
 # [Directory 4/]
-### [Home](../)
 ### [0001.jpg](0001.jpg)
 ### [0002.jpg](0002.jpg)
 ### [0003.jpg](0003.jpg)

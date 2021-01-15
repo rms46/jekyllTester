@@ -1,8 +1,7 @@
 ---
-layout: "lay"
+layout: "layout"
 ---
 # [Directory 3/]
-### [Home](../)
 ### [0001.txt](0001.txt)
 ### [0002.txt](0002.txt)
 ### [0003.txt](0003.txt)

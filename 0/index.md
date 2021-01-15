@@ -1,8 +1,7 @@
 ---
-layout: "lay"
+layout: "layout"
 ---
 # [Directory 0/]
-### [Home](../)
 ### [00-0.html](00-0.html)
 ### [00-10.html](00-10.html)
 ### [00-11.html](00-11.html)

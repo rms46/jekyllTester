@@ -5,6 +5,7 @@
 2
 3
 4
+assets
 _config.yml
 css
 favicon.ico
@@ -14,8 +15,8 @@ index.md
 _layouts
 png
 README.md
-script.js
 _site
+test.md
 tmptmp
 
 ./0:
@@ -599,11 +600,26 @@ index.md
 0012.html
 index.md
 
+./assets:
+js
+
+./assets/js:
+javascripts
+
+./assets/js/javascripts:
+hello.js
+main.js
+script.js
+
 ./css:
 default.css
+olddefault1.css
+olddefault.css
 
 ./_layouts:
+demo.html
 lay.html
+layout.html
 tmptmp
 
 ./png:
@@ -623,8 +639,8 @@ index.html
 png
 README.html
 robots.txt
-script.js
 sitemap.xml
+test.html
 tmptmp
 
 ./_site/0:
@@ -1211,6 +1227,7 @@ index.html
 ./_site/assets:
 css
 images
+js
 
 ./_site/assets/css:
 style.css
@@ -1220,8 +1237,18 @@ bkg.png
 blacktocat.png
 bullet.png
 
+./_site/assets/js:
+javascripts
+
+./_site/assets/js/javascripts:
+hello.js
+main.js
+script.js
+
 ./_site/css:
 default.css
+olddefault1.css
+olddefault.css
 
 ./_site/png:
 gtmb.png

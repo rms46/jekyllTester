@@ -1,5 +1,5 @@
 ---
-layout: "lay"
+layout: "layout"
 ---
 # {{ site.title }}
 # [Directory 0](0/)

@@ -1,8 +1,7 @@
 ---
-layout: "lay"
+layout: "layout"
 ---
 # [Directory 2/]
-### [Home](../)
 ### [101.html](101.html)
 ### [102.html](102.html)
 ### [103.html](103.html)
