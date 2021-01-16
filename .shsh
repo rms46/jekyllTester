@@ -10,7 +10,7 @@
 
 function mkidx {
     cd $1
-    printf -- '---\nlayout: "layout"\n---\n'       >   index.md
+    printf -- '---\nlayout: "layout"\n---\n'       >  index.md
     printf -- '# [Directory %s/]\n' $1            >>  index.md
     for II in $(ls) ; do
         [ "$II" == "index.md" ] && continue
