@@ -452,7 +452,13 @@ index.md
 222.txt
 223.odt
 223.pdf
+224.jpg
+225.jpg
+226.jpg
+227.jpg
+228.jpg
 index.md
+tmptmp
 
 ./3:
 0001.txt
@@ -1075,7 +1081,13 @@ index.html
 222.txt
 223.odt
 223.pdf
+224.jpg
+225.jpg
+226.jpg
+227.jpg
+228.jpg
 index.html
+tmptmp
 
 ./_site/3:
 0001.txt
