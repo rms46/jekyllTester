@@ -17,7 +17,6 @@ png
 README.md
 _site
 test.md
-tmptmp
 
 ./0:
 00-0.html
@@ -100,7 +99,6 @@ citations-z.html
 etc-welcome.html
 index.md
 _site
-tmptmp
 
 ./0/_site:
 00-0.html
@@ -274,7 +272,6 @@ index.html
 99.odp
 99.pdf
 index.md
-tmptmp
 
 ./2:
 101.html
@@ -725,7 +722,6 @@ README.html
 robots.txt
 sitemap.xml
 test.html
-tmptmp
 
 ./_site/0:
 00-0.html
@@ -807,7 +803,6 @@ citations-y.html
 citations-z.html
 etc-welcome.html
 index.html
-tmptmp
 
 ./_site/1:
 100.html
@@ -900,7 +895,6 @@ tmptmp
 99.odp
 99.pdf
 index.html
-tmptmp
 
 ./_site/2:
 101.html
