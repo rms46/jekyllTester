@@ -25,7 +25,7 @@ ls -R > ${README}.txt
 
 cat > index.md << NNNN
 ---
-layout: "lay"
+layout: "layout"
 ---
 # {{ site.title }}
 NNNN
