@@ -99,6 +99,89 @@ citations-y.html
 citations-z.html
 etc-welcome.html
 index.md
+_site
+tmptmp
+
+./0/_site:
+00-0.html
+00-10.html
+00-11.html
+00-12.html
+00-13.html
+00-14.html
+00-15.html
+00-16.html
+00-17.html
+00-18.html
+00-19.html
+00-1.html
+00-20.html
+00-21.html
+00-2.html
+00-3.html
+00-4.html
+00-5.html
+00-6.html
+00-7.html
+00-8.html
+00-9.html
+citations-a.html
+citations-b.html
+citations-bref-1.html
+citations-c.html
+citations-clippings1.html
+citations-d.html
+citations-dick1.html
+citations-e.html
+citations-f.html
+citations-g.html
+citations-gtm2.html
+citations-gtm.html
+citations-h.html
+citations-i.html
+citations-j.html
+citations-k1.html
+citations-k2.html
+citations-k3.html
+citations-k4.html
+citations-k5.html
+citations-k.html
+citations-kompas00a.html
+citations-kompas96a.html
+citations-kompas96b.html
+citations-kompas97a.html
+citations-kompas97b.html
+citations-kompas97c.html
+citations-kompas98a.html
+citations-kompas98b.html
+citations-kompas98c.html
+citations-kompas99a.html
+citations-kompas99b.html
+citations-kompas99c.html
+citations-kompas-kkg.html
+citations-kompas-sdn.html
+citations-l.html
+citations-m.html
+citations-n.html
+citations-o.html
+citations-p.html
+citations-q.html
+citations-qual1.html
+citations-ref1.html
+citations-r.html
+citations-riset1.html
+citations-scitech1.html
+citations-s.html
+citations-sosbud1.html
+citations-t.html
+citations-u.html
+citations-v.html
+citations-w.html
+citations-x.html
+citations-y.html
+citations-z.html
+etc-welcome.html
+index.html
 
 ./1:
 100.html
@@ -191,6 +274,7 @@ index.md
 99.odp
 99.pdf
 index.md
+tmptmp
 
 ./2:
 101.html
@@ -609,6 +693,7 @@ javascripts
 ./assets/js/javascripts:
 hello.js
 main.js
+replace.js
 script.js
 
 ./css:
@@ -618,7 +703,6 @@ olddefault.css
 
 ./_layouts:
 demo.html
-lay.html
 layout.html
 tmptmp
 
@@ -723,6 +807,7 @@ citations-y.html
 citations-z.html
 etc-welcome.html
 index.html
+tmptmp
 
 ./_site/1:
 100.html
@@ -815,6 +900,7 @@ index.html
 99.odp
 99.pdf
 index.html
+tmptmp
 
 ./_site/2:
 101.html
@@ -1243,6 +1329,7 @@ javascripts
 ./_site/assets/js/javascripts:
 hello.js
 main.js
+replace.js
 script.js
 
 ./_site/css:
