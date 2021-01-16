@@ -458,7 +458,6 @@ index.md
 227.jpg
 228.jpg
 index.md
-tmptmp
 
 ./3:
 0001.txt
